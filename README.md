@@ -1,7 +1,8 @@
 # Bible Tap
-## Android App
+## Android App for typing training for the Tap Strap
 
-App designed specifically for the Typing training on the Tap Strap 2.
+
+App designed specifically for typing training on the Tap Strap 2.
 
 <p align="center">
   <img width="400" src="screenshots/tapstrap2.jpg">
@@ -28,3 +29,4 @@ Future todos:
 - WPM counter
 - Allow harder or easier difficulty by turning off auto capitalisation
 - Allow sharing results
+
