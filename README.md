@@ -1,8 +1,8 @@
 # Bible Tap
-## Android App for typing training for the Tap Strap
+## Android App for tapping training for the Tap Strap
 
 
-App designed specifically for typing training on the Tap Strap 2.
+App designed specifically for tapping training on the Tap Strap 2.
 
 <p align="center">
   <img width="400" src="screenshots/tapstrap2.jpg">
@@ -15,8 +15,8 @@ App Screenshots:
   <img width="460" src="screenshots/screenshot01.png">
 </p>
 
-The app combines audio (Bach's "Jesu, Joy of Man's Desiring") in order to build rhythm in typing tempo. With each character you are playing a note of the song. As your typing speeds up the song will speed up.
-The song was chosen specifically for the fact that every note is of equal length (all are 8th notes) and is aimed at encouraging regularity and a smooth stable typing speed.
+The app combines audio (Bach's "Jesu, Joy of Man's Desiring") in order to build rhythm in tapping tempo. With each character you are playing a note of the song. As your tapping speeds up the song will speed up.
+The song was chosen specifically for the fact that every note is of equal length (all are 8th notes) and is aimed at encouraging regularity and a smooth stable tapping speed.
 
 
 A counter keeps track of how many characters you successfully enter.
